@@ -7,6 +7,9 @@ Eliminei a primeira linha e escrevi esta!!
 
 
 Fiz uma alteração dentro do ficheiro
-Alterações efetuadas no branch NovaFeature
+Alterações efetuadas no branch NovaFea
 
 Alteração no branch NOVAFEATURE
+
+Alteração no branch MASTER
+
